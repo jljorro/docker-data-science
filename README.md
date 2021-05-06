@@ -9,6 +9,8 @@ Dirigirnos a la carpeta principal de este proyecto y, a continuación, ejecutar 
 
 Una vez que se ha levantado el contenedor, copiar la URL que aparece en la terminal y pegarlo en un navegador web.
 
+Para ejecutar *Jupyter Lab*, una vez que el navegador ha abierto la URL anterior, cambiar esa URL por: `http://localhost:8888/lab`.
+
 ## Contenido
 El contenido de cada proyecto será el siguiente:
 - `/data`: Carpeta donde se pondrán los datos con los que se quiere trabajar en el proyecto.
